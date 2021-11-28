@@ -1,0 +1,19 @@
+<div class="banner">
+  <div class="margin-btm">
+    <h1>Stupid Coaching</h1>
+  </div>
+  <blockquote>
+    <% if @question.blank? %>
+      <p>...</p>
+    <% else %>
+      <p><%= @question %>
+      <% end %>
+    </p>
+    <cite>You</cite>
+  </blockquote>
+  <blockquote class="coach">
+    <p><%= @answer %></p>
+    <cite>Your coach</cite>
+  </blockquote>
+  <%= link_to "Ask a new question", ask_path, class: "btn btn-ghost"%>
+</div>
