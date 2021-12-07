@@ -1,24 +1,36 @@
-# README
+#🧢 Stupid Coaching
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My first rails app built with Le Wagon.
 
-Things you may want to cover:
+If the message is I am going to work, the coach will answer Great!
+If the message has a question mark ? at the end, the coach will answer Silly question, get dressed and go to work!.
+Otherwise the coach will answer I don't care, get dressed and go to work!
 
-* Ruby version
+<img width="1156" alt="Screen Shot 2021-12-06 at 14 07 40" src="https://user-images.githubusercontent.com/88181896/145057367-fbcdca2a-a93b-4e6a-984e-8740f21853b1.png">
 
-* System dependencies
+<br>
+App home: https://anju-stupid-coaching.herokuapp.com
+   
 
-* Configuration
+## Getting Started
+### Setup
 
-* Database creation
+Install gems
+```
+bundle install
+```
 
-* Database initialization
+### Run a server
+```
+rails s
+```
 
-* How to run the test suite
+## Built With
+- [Rails 6](https://guides.rubyonrails.org/) - Backend / Front-end
+- [Heroku](https://heroku.com/) - Deployment
 
-* Services (job queues, cache servers, search engines, etc.)
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-* Deployment instructions
-
-* ...
+## License
+This project is licensed under the MIT License
