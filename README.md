@@ -2,9 +2,9 @@
 
 My first rails app built with Le Wagon.
 
-If the message is I am going to work, the coach will answer Great!
-If the message has a question mark ? at the end, the coach will answer Silly question, get dressed and go to work!.
-Otherwise the coach will answer I don't care, get dressed and go to work!
+If the message is I am going to work, the coach will answer Great! <br>
+If the message has a question mark ? at the end, the coach will answer Silly question, get dressed and go to work!. <br>
+Otherwise the coach will answer I don't care, get dressed and go to work! <br>
 
 <img width="1156" alt="Screen Shot 2021-12-06 at 14 07 40" src="https://user-images.githubusercontent.com/88181896/145057367-fbcdca2a-a93b-4e6a-984e-8740f21853b1.png">
 
