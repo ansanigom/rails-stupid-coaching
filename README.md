@@ -1,4 +1,4 @@
-#🧢 Stupid Coaching
+# 🧢 Stupid Coaching
 
 My first rails app built with Le Wagon.
 
